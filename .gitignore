@@ -1,0 +1,5 @@
+names.py
+*.p.
+*.log
+*.swp
+*.swo
